@@ -1,0 +1,1 @@
+This repo demonstrates how to connect to AWS API gateway using Spring boot application.
