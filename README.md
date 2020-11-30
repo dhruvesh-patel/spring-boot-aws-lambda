@@ -28,7 +28,7 @@ mvn spring-boot:run
 5. Use AWS console to configure and test lambda function. 
 ```
 Update basic Settings to configure handler with full path of - com.dpinc.springbootawslambda.OrderHandler
-Edit Environment variable to add key as "FUNCTION_NAME" and put funnction name - orders ( Ltoater follow same steps to try with other function - findOrderByName)
+Edit Environment variable to add key as "FUNCTION_NAME" and put function name - orders ( follow same steps to try with other function - findOrderByName)
 Configure test event and provide input to function or leave blank (as per function definition)
 Test function
 ```
